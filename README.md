@@ -4,7 +4,7 @@ This is NaverIdLoginSDK for iOS wrapper repository for support Swift Package.
 ## Installation
 ```sh
 dependencies: [
-    .package(url: "https://github.com/kyungkoo/naveridlogin-ios-sp", .upToNextMajor(from: "4.1.5"))
+    .package(url: "https://github.com/kyungkoo/naveridlogin-ios-sp", .upToNextMajor(from: "4.2.1"))
 ]
 ```
 ## Original Repository
